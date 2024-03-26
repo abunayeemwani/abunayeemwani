@@ -23,7 +23,7 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abunayeemwani" alt="abunayeemwani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abunayeemwani&theme=onedark&column=4&margin-w=10&margin-h=10" alt="abunayeemwani" /></a> </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abunayeemwani&show_icons=true&locale=en&layout=compact" alt="abunayeemwani" /></p>
 
